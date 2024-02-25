@@ -4,7 +4,7 @@
 */
 
 html,
-body,
+/*body,
 div,
 span,
 applet,
@@ -92,7 +92,7 @@ video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article,
+/*article,
 aside,
 details,
 figcaption,
@@ -127,3 +127,4 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+*/
