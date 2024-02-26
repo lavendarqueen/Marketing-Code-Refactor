@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-   padding: 0px;
+  padding: 0px;
   margin: 0px;
 }
 
@@ -43,9 +43,9 @@ body {
 }
 
 .header div ul li {
-  display:inline-block;
+  display: inline-block;
   margin-left: 25px;
-}  
+}
 
 a {
   color: #ffffff;
@@ -59,7 +59,7 @@ p {
 .hero {
   display: flex;
   height: 800px;
-  width: 98%
+  width: 98%;
   margin-bottom: 25px;
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-repeat: no-repeat;
